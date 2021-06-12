@@ -1,5 +1,4 @@
 // Program to check if two rectangles, not necessarily aligned with the X and Y axes, intersect.
-package challenge;
 
 public class Q5 {
     public static void main(String[] args) {

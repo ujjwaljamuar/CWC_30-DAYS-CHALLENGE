@@ -1,5 +1,5 @@
 //Calculate the area of a Circle inscribed in a Square.
-package challenge;
+
 
 import java.util.Scanner;
 

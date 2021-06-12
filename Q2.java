@@ -1,7 +1,5 @@
 //Write a program to find partial sums of the terms of the Fibonacci sequence.
 
-package challenge;
-
 import java.util.Scanner;
 
 public class Q2 {

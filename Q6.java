@@ -1,5 +1,4 @@
 // Program to swap bits with O(1) time complexity
-package challenge;
 
 public class Q6 {
     static int swapBits(int x)
