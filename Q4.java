@@ -1,4 +1,5 @@
 //Given four points in the plane, write a program to check if they are the vertices of a rectangle.
+package challenge;
 
 public class Q4 {
     public static boolean IsRectangle(int x1, int y1, int x2, int y2, int x3, int y3, int x4, int y4) {

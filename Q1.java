@@ -1,3 +1,5 @@
+package challenge;
+
 // From a set of permutations for a given number n find the number of elements such hat no element appears in its original position.
 
 import java.util.*;
